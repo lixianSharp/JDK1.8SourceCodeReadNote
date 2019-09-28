@@ -1,0 +1,1272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="JdkSourceCode:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="94caf82f-f7e2-4b41-a4c5-70913dbc3a6e" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.5530164">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/JDKSCode/src/java/lang/Byte.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="9828">
+                  <caret line="521" column="22" selection-start-line="521" selection-start-column="22" selection-end-line="521" selection-end-column="22" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/JDKSCode/src/java/lang/Double.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="1974">
+                  <caret line="119" column="24" selection-start-line="119" selection-start-column="24" selection-end-line="119" selection-end-column="24" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/JDKSCode/src/java/lang/Float.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="16065">
+                  <caret line="826" column="39" selection-start-line="826" selection-start-column="39" selection-end-line="826" selection-end-column="39" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/JDKSCode/src/java/lang/Thread.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="40551">
+                  <caret line="2012" column="6" selection-start-line="2012" selection-start-column="6" selection-end-line="2012" selection-end-column="6" />
+                  <folding>
+                    <element signature="e#36008#36009#0" expanded="true" />
+                    <element signature="e#36065#36066#0" expanded="true" />
+                    <element signature="e#39129#39130#0" expanded="true" />
+                    <element signature="e#39187#39188#0" expanded="true" />
+                    <element signature="e#39756#39757#0" expanded="true" />
+                    <element signature="e#39799#39800#0" expanded="true" />
+                    <element signature="e#41120#41121#0" expanded="true" />
+                    <element signature="e#41165#41166#0" expanded="true" />
+                    <element signature="e#45509#45510#0" expanded="true" />
+                    <element signature="e#45540#45541#0" expanded="true" />
+                    <element signature="e#46538#46539#0" expanded="true" />
+                    <element signature="e#46565#46566#0" expanded="true" />
+                    <element signature="e#46822#46823#0" expanded="true" />
+                    <element signature="e#46850#46851#0" expanded="true" />
+                    <element signature="e#47708#47709#0" expanded="true" />
+                    <element signature="e#47777#47778#0" expanded="true" />
+                    <element signature="e#49110#49111#0" expanded="true" />
+                    <element signature="e#49183#49184#0" expanded="true" />
+                    <element signature="e#54046#54047#0" expanded="true" />
+                    <element signature="e#54108#54109#0" expanded="true" />
+                    <element signature="e#55310#55311#0" expanded="true" />
+                    <element signature="e#55339#55340#0" expanded="true" />
+                    <element signature="e#69165#69166#0" expanded="true" />
+                    <element signature="e#69191#69192#0" expanded="true" />
+                    <element signature="e#80336#80337#0" expanded="true" />
+                    <element signature="e#80408#80409#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/JDKSCode/src/java/lang/ThreadLocal.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="5901">
+                  <caret line="323" column="17" selection-start-line="323" selection-start-column="17" selection-end-line="323" selection-end-column="17" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/JDKSCode/src/java/lang/Enum.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="4515">
+                  <caret line="252" column="24" selection-start-line="252" selection-start-column="24" selection-end-line="252" selection-end-column="24" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/JDKSCode/src/java/lang/Throwable.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="15603">
+                  <caret line="793" column="20" selection-start-line="793" selection-start-column="20" selection-end-line="793" selection-end-column="20" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/JDKSCode/src/java/lang/Error.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="231">
+                  <caret line="34" column="15" selection-start-line="34" selection-start-column="15" selection-end-line="34" selection-end-column="15" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/JDKSCode/src/java/lang/Exception.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="315">
+                  <caret line="67" column="7" selection-start-line="67" selection-start-column="7" selection-end-line="67" selection-end-column="7" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/javalang/OBJECT.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="189">
+                  <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/main/java/javalang/ThreadId.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="355">
+                  <caret line="27" column="12" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>startswi</find>
+      <find>endsWi</find>
+      <find>toStringCache</find>
+      <find>endsWith</find>
+      <find>replaces</find>
+      <find>replace</find>
+      <find>equals</find>
+      <find>索引</find>
+      <find>移除</find>
+      <find>Node</find>
+      <find>linkFirst</find>
+      <find>unlinkFirst</find>
+      <find>push</find>
+      <find>set</find>
+      <find>index</find>
+      <find>modCount</find>
+      <find>ListIterator</find>
+      <find>add</find>
+      <find>remove</find>
+      <find>get</find>
+      <find>put</find>
+      <find>ByteArray</find>
+      <find>read</find>
+      <find>write</find>
+      <find>Tree</find>
+      <find>11</find>
+      <find>CountDownLatch</find>
+      <find>longBitsToDouble</find>
+      <find>getThreadGroup</find>
+      <find>wait</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/javalang/Object.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/javalang/Address.java" />
+        <option value="$PROJECT_DIR$/src/main/java/jdkSourceCode/src/java/lang/Class.java" />
+        <option value="$PROJECT_DIR$/src/main/java/jdkSourceCode/src/java/util/concurrent/BlockingDeque.java" />
+        <option value="$PROJECT_DIR$/src/main/java/jdkSourceCode/src/java/lang/Object.java" />
+        <option value="$PROJECT_DIR$/src/main/java/javalang/Object.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/jdkSourceCode/src/java/lang/String.java" />
+        <option value="$PROJECT_DIR$/src/main/java/javalang/Test.java" />
+        <option value="$PROJECT_DIR$/JDKSCode/src/java/lang/StringBuffer.java" />
+        <option value="$PROJECT_DIR$/JDKSCode/src/java/lang/String.java" />
+        <option value="$PROJECT_DIR$/JDKSCode/src/java/util/AbstractList.java" />
+        <option value="$PROJECT_DIR$/JDKSCode/src/java/util/ArrayList.java" />
+        <option value="$PROJECT_DIR$/JDKSCode/src/java/util/LinkedList.java" />
+        <option value="$PROJECT_DIR$/JDKSCode/src/java/io/ByteArrayOutputStream.java" />
+        <option value="$PROJECT_DIR$/JDKSCode/src/java/util/HashMap.java" />
+        <option value="$PROJECT_DIR$/JDKSCode/src/java/util/Hashtable.java" />
+        <option value="$PROJECT_DIR$/JDKSCode/src/java/lang/Boolean.java" />
+        <option value="$PROJECT_DIR$/JDKSCode/src/java/lang/Byte.java" />
+        <option value="$PROJECT_DIR$/JDKSCode/src/java/lang/Double.java" />
+        <option value="$PROJECT_DIR$/JDKSCode/src/java/lang/Float.java" />
+        <option value="$PROJECT_DIR$/JDKSCode/src/java/lang/SecurityManager.java" />
+        <option value="$PROJECT_DIR$/JDKSCode/src/java/lang/Thread.java" />
+        <option value="$PROJECT_DIR$/src/main/java/javalang/OBJECT.java" />
+        <option value="$PROJECT_DIR$/src/main/java/javalang/TF.java" />
+        <option value="$PROJECT_DIR$/src/main/java/javalang/ThreadId.java" />
+        <option value="$PROJECT_DIR$/JDKSCode/src/java/lang/ThreadLocal.java" />
+        <option value="$PROJECT_DIR$/JDKSCode/src/java/lang/Enum.java" />
+        <option value="$PROJECT_DIR$/JDKSCode/src/java/lang/Throwable.java" />
+        <option value="$PROJECT_DIR$/JDKSCode/src/java/lang/Error.java" />
+        <option value="$PROJECT_DIR$/JDKSCode/src/java/lang/Exception.java" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:/apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="E:\apache-maven-3.5.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1" />
+    <option name="width" value="1369" />
+    <option name="height" value="738" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <autoscrollToSource ProjectPane="true" />
+      <autoscrollFromSource ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="JdkSourceCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JdkSourceCode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JdkSourceCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JdkSourceCode" type="462c0819:PsiDirectoryNode" />
+              <item name="JDKSCode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JdkSourceCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JdkSourceCode" type="462c0819:PsiDirectoryNode" />
+              <item name="JDKSCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JdkSourceCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JdkSourceCode" type="462c0819:PsiDirectoryNode" />
+              <item name="JDKSCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JdkSourceCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JdkSourceCode" type="462c0819:PsiDirectoryNode" />
+              <item name="JDKSCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lang" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JdkSourceCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JdkSourceCode" type="462c0819:PsiDirectoryNode" />
+              <item name="JDKSCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lang" type="462c0819:PsiDirectoryNode" />
+              <item name="Exception" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="JdkSourceCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JdkSourceCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JdkSourceCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JdkSourceCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JdkSourceCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JdkSourceCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JdkSourceCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JdkSourceCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="javalang" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JdkSourceCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JdkSourceCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="javalang" type="462c0819:PsiDirectoryNode" />
+              <item name="ThreadId" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="JdkSourceCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="JdkSourceCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="JdkSourceCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JdkSourceCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JdkSourceCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lang" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JdkSourceCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lang" type="462c0819:PsiDirectoryNode" />
+              <item name="Object" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="JdkSourceCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lang" type="462c0819:PsiDirectoryNode" />
+              <item name="ThreadLocal" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="JdkSourceCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lang" type="462c0819:PsiDirectoryNode" />
+              <item name="ThreadLocal" type="1a9f42e2:ClassTreeNode" />
+              <item name="ThreadLocalMap" type="1a9f42e2:ClassTreeNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563367152809" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.31609195" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ThreadId">
+    <configuration name="OBJECT" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javalang.OBJECT" />
+      <module name="JdkSourceCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javalang.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TF" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javalang.TF" />
+      <module name="JdkSourceCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javalang.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javalang.Test" />
+      <module name="JdkSourceCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javalang.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadId" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javalang.ThreadId" />
+      <module name="JdkSourceCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javalang.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 7.0.88" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.88" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/JdkSourceCode_war_exploded/" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="JdkSourceCode:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/JdkSourceCode_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_JdkSourceCode_2" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="53621" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="JdkSourceCode:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ThreadId" />
+        <item itemvalue="Application.TF" />
+        <item itemvalue="Application.OBJECT" />
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\贤元\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="94caf82f-f7e2-4b41-a4c5-70913dbc3a6e" name="Default Changelist" comment="" />
+      <created>1550327612941</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1550327612941</updated>
+      <workItem from="1550327616579" duration="2255000" />
+      <workItem from="1550330201342" duration="301000" />
+      <workItem from="1550369595508" duration="6844000" />
+      <workItem from="1550652247062" duration="754000" />
+      <workItem from="1551059519819" duration="599000" />
+      <workItem from="1551525155400" duration="6444000" />
+      <workItem from="1551626862427" duration="904000" />
+      <workItem from="1551661387382" duration="8807000" />
+      <workItem from="1551689798730" duration="3931000" />
+      <workItem from="1551709250025" duration="1746000" />
+      <workItem from="1551748879723" duration="3236000" />
+      <workItem from="1551773166931" duration="1319000" />
+      <workItem from="1551834896170" duration="3748000" />
+      <workItem from="1551921255627" duration="1792000" />
+      <workItem from="1552270218365" duration="20397000" />
+      <workItem from="1552352644949" duration="13455000" />
+      <workItem from="1552392663201" duration="917000" />
+      <workItem from="1552438217867" duration="2413000" />
+      <workItem from="1552525046315" duration="7353000" />
+      <workItem from="1552723104136" duration="228000" />
+      <workItem from="1559116498852" duration="7590000" />
+      <workItem from="1559135867235" duration="1013000" />
+      <workItem from="1559178286030" duration="2192000" />
+      <workItem from="1559264999185" duration="701000" />
+      <workItem from="1559374544950" duration="2478000" />
+      <workItem from="1559524644256" duration="1034000" />
+      <workItem from="1559564516410" duration="5551000" />
+      <workItem from="1559638664203" duration="377000" />
+      <workItem from="1560216642046" duration="741000" />
+      <workItem from="1560304690754" duration="598000" />
+      <workItem from="1560351216700" duration="599000" />
+      <workItem from="1560390151426" duration="596000" />
+      <workItem from="1560580244961" duration="9135000" />
+      <workItem from="1560734471488" duration="11446000" />
+      <workItem from="1560779610948" duration="446000" />
+      <workItem from="1560834619790" duration="2588000" />
+      <workItem from="1560860438437" duration="458000" />
+      <workItem from="1561352146638" duration="161000" />
+      <workItem from="1561895193502" duration="799000" />
+      <workItem from="1561945127641" duration="13244000" />
+      <workItem from="1561982657162" duration="1202000" />
+      <workItem from="1562029667996" duration="8077000" />
+      <workItem from="1562071667383" duration="591000" />
+      <workItem from="1562206145207" duration="1274000" />
+      <workItem from="1562242026258" duration="1366000" />
+      <workItem from="1562762172881" duration="599000" />
+      <workItem from="1563366099754" duration="1198000" />
+      <workItem from="1564910129266" duration="30000" />
+      <workItem from="1565180550753" duration="17000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="163544000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1" y="0" width="1369" height="738" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1815408" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.40266222" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.049342107" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Application Servers" order="7" weight="0.2579035" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3294509" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.9417637" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.3294509" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.33987916" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.40266222" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.069883525" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Application Servers" order="7" weight="0.2579035" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3294509" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Messages" order="11" visible="true" weight="0.9417637" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.3294509" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://E:/Software/EncodingSoftware/develop/jdk1.8.0_191/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="3167" column="78" lean-forward="true" selection-start-line="3160" selection-start-column="7" selection-end-line="3167" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Software/EncodingSoftware/develop/jdk1.8.0_191/src.zip!/java/lang/System.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="492" column="35" lean-forward="true" selection-start-line="492" selection-start-column="35" selection-end-line="492" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Software/EncodingSoftware/develop/jdk1.8.0_191/src.zip!/java/io/ByteArrayOutputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="153" column="15" selection-start-line="153" selection-start-column="15" selection-end-line="153" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Software/EncodingSoftware/develop/jdk1.8.0_191/src.zip!/java/util/AbstractList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-270">
+          <caret line="584" column="36" selection-start-line="584" selection-start-column="36" selection-end-line="584" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Software/EncodingSoftware/develop/jdk1.8.0_191/javafx-src.zip!/com/sun/glass/ui/lens/LensApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="740" column="59" lean-forward="true" selection-start-line="740" selection-start-column="59" selection-end-line="740" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JDKSCode/src/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-15731">
+          <caret line="678" column="5" lean-forward="true" selection-start-line="659" selection-start-column="1" selection-end-line="678" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#6180#6181#0" expanded="true" />
+            <element signature="e#6248#6249#0" expanded="true" />
+            <element signature="e#10195#10196#0" expanded="true" />
+            <element signature="e#10222#10223#0" expanded="true" />
+            <element signature="e#10404#10405#0" expanded="true" />
+            <element signature="e#10436#10437#0" expanded="true" />
+            <element signature="e#10913#10914#0" expanded="true" />
+            <element signature="e#10951#10952#0" expanded="true" />
+            <element signature="e#13547#13548#0" expanded="true" />
+            <element signature="e#13602#13603#0" expanded="true" />
+            <element signature="e#15420#15421#0" expanded="true" />
+            <element signature="e#15465#15466#0" expanded="true" />
+            <element signature="e#25018#25019#0" expanded="true" />
+            <element signature="e#25072#25073#0" expanded="true" />
+            <element signature="e#30967#30968#0" expanded="true" />
+            <element signature="e#31004#31005#0" expanded="true" />
+            <element signature="e#31304#31305#0" expanded="true" />
+            <element signature="e#31336#31337#0" expanded="true" />
+            <element signature="e#47455#47456#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JDKSCode/src/java/util/AbstractList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="426" column="32" selection-start-line="426" selection-start-column="24" selection-end-line="426" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JDKSCode/src/java/util/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13452">
+          <caret line="714" column="7" lean-forward="true" selection-start-line="714" selection-start-column="7" selection-end-line="715" selection-end-column="21" />
+          <folding>
+            <element signature="e#10304#10305#0" expanded="true" />
+            <element signature="e#10332#10333#0" expanded="true" />
+            <element signature="e#10556#10557#0" expanded="true" />
+            <element signature="e#10583#10584#0" expanded="true" />
+            <element signature="e#11087#11088#0" expanded="true" />
+            <element signature="e#11126#11127#0" expanded="true" />
+            <element signature="e#11286#11287#0" expanded="true" />
+            <element signature="e#11313#11314#0" expanded="true" />
+            <element signature="e#13585#13586#0" expanded="true" />
+            <element signature="e#13623#13624#0" expanded="true" />
+            <element signature="e#18363#18364#0" expanded="true" />
+            <element signature="e#18412#18413#0" expanded="true" />
+            <element signature="e#18584#18585#0" expanded="true" />
+            <element signature="e#18634#18635#0" expanded="true" />
+            <element signature="e#18901#18902#0" expanded="true" />
+            <element signature="e#18955#18956#0" expanded="true" />
+            <element signature="e#22577#22578#0" expanded="true" />
+            <element signature="e#23298#23299#0" expanded="true" />
+            <element signature="e#23601#23602#0" expanded="true" />
+            <element signature="e#26077#26078#0" expanded="true" />
+            <element signature="e#26613#26614#0" expanded="true" />
+            <element signature="e#27071#27072#0" expanded="true" />
+            <element signature="e#32734#32735#0" expanded="true" />
+            <element signature="e#39486#39487#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Software/EncodingSoftware/develop/jdk1.8.0_191/src.zip!/java/util/AbstractMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="67" column="22" selection-start-line="67" selection-start-column="22" selection-end-line="67" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Software/EncodingSoftware/develop/jdk1.8.0_191/src.zip!/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7308">
+          <caret line="374" column="26" lean-forward="true" selection-start-line="374" selection-start-column="26" selection-end-line="374" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Software/EncodingSoftware/develop/jdk1.8.0_191/src.zip!/java/util/Objects.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="93" column="30" lean-forward="true" selection-start-line="93" selection-start-column="30" selection-end-line="93" selection-end-column="30" />
+          <folding>
+            <element signature="e#2786#2787#0" expanded="true" />
+            <element signature="e#2837#2838#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Software/EncodingSoftware/develop/jdk1.8.0_191/src.zip!/java/io/ByteArrayInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="43" column="26" selection-start-line="43" selection-start-column="6" selection-end-line="43" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JDKSCode/src/com/sun/jmx/mbeanserver/MBeanInstantiator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="364" column="19" selection-start-line="364" selection-start-column="19" selection-end-line="364" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JDKSCode/src/java/io/ByteArrayInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="43" column="6" selection-start-line="43" selection-start-column="6" selection-end-line="43" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JDKSCode/src/java/io/FileInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="227" column="37" selection-start-line="227" selection-start-column="37" selection-end-line="227" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JDKSCode/src/java/io/ByteArrayOutputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="147" column="57" lean-forward="true" selection-start-line="147" selection-start-column="57" selection-end-line="147" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JDKSCode/src/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2434">
+          <caret line="700" column="33" lean-forward="true" selection-start-line="700" selection-start-column="33" selection-end-line="700" selection-end-column="33" />
+          <folding>
+            <element signature="e#33344#33345#0" expanded="true" />
+            <element signature="e#33382#33383#0" expanded="true" />
+            <element signature="e#44413#44414#0" expanded="true" />
+            <element signature="e#44477#44478#0" expanded="true" />
+            <element signature="e#44546#44547#0" expanded="true" />
+            <element signature="e#44622#44623#0" expanded="true" />
+            <element signature="e#69052#69053#0" expanded="true" />
+            <element signature="e#69109#69110#0" expanded="true" />
+            <element signature="e#69223#69224#0" expanded="true" />
+            <element signature="e#69286#69287#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JDKSCode/src/java/util/Hashtable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="35" column="24" lean-forward="true" selection-start-line="35" selection-start-column="15" selection-end-line="35" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JDKSCode/src/java/util/HashSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="107" lean-forward="true" selection-start-line="107" selection-end-line="107" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JDKSCode/src/java/lang/Boolean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="44" column="57" lean-forward="true" selection-start-line="41" selection-start-column="3" selection-end-line="44" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Software/EncodingSoftware/develop/jdk1.8.0_191/src.zip!/java/lang/Number.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-819">
+          <caret line="59" column="40" lean-forward="true" selection-start-line="59" selection-start-column="40" selection-end-line="59" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Software/EncodingSoftware/develop/jdk1.8.0_191/src.zip!/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23079">
+          <caret line="1154" column="26" selection-start-line="1154" selection-start-column="26" selection-end-line="1154" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Software/EncodingSoftware/develop/jdk1.8.0_191/src.zip!/java/lang/Double.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="50" column="19" selection-start-line="50" selection-start-column="19" selection-end-line="50" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JDKSCode/src/java/util/concurrent/CountDownLatch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="190" column="7" selection-start-line="190" selection-start-column="7" selection-end-line="190" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JDKSCode/src/java/util/concurrent/atomic/AtomicReference.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="40" column="3" selection-start-line="40" selection-start-column="3" selection-end-line="40" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Software/EncodingSoftware/develop/jdk1.8.0_191/jre/lib/rt.jar!/sun/misc/FloatingDecimal.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="945">
+          <caret line="52" column="25" selection-start-line="52" selection-start-column="25" selection-end-line="52" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Software/EncodingSoftware/develop/jdk1.8.0_191/src.zip!/java/util/concurrent/ConcurrentHashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="1812" lean-forward="true" selection-start-line="1812" selection-end-line="1812" />
+          <folding>
+            <element signature="e#0#262622#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JDKSCode/src/java/util/concurrent/atomic/AtomicInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="52" column="2" lean-forward="true" selection-start-line="52" selection-start-column="2" selection-end-line="52" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Software/EncodingSoftware/develop/jdk1.8.0_191/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="1151" column="29" selection-start-line="1151" selection-start-column="29" selection-end-line="1151" selection-end-column="29" />
+          <folding>
+            <element signature="e#44253#44254#0" expanded="true" />
+            <element signature="e#44281#44282#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Software/EncodingSoftware/develop/jdk1.8.0_191/src.zip!/java/lang/ThreadGroup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="651">
+          <caret line="56" column="6" selection-start-line="56" selection-start-column="6" selection-end-line="56" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JDKSCode/src/java/lang/SecurityManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="35910">
+          <caret line="1768" column="54" selection-start-line="1768" selection-start-column="54" selection-end-line="1768" selection-end-column="54" />
+          <folding>
+            <element signature="e#74431#74432#0" expanded="true" />
+            <element signature="e#74507#74508#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Software/EncodingSoftware/develop/jdk1.8.0_191/src.zip!/java/util/concurrent/locks/LockSupport.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="119" column="13" selection-start-line="119" selection-start-column="13" selection-end-line="119" selection-end-column="13" />
+          <folding>
+            <element signature="e#10983#10984#0" expanded="true" />
+            <element signature="e#11021#11022#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JDKSCode/src/java/lang/ThreadGroup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2076">
+          <caret line="62" column="30" lean-forward="true" selection-start-line="62" selection-start-column="30" selection-end-line="62" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Software/EncodingSoftware/develop/jdk1.8.0_191/src.zip!/java/lang/Runnable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="67" column="21" selection-start-line="67" selection-start-column="21" selection-end-line="67" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javalang/TF.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Software/EncodingSoftware/develop/jdk1.8.0_191/src.zip!/java/io/PrintStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14364">
+          <caret line="735" selection-start-line="735" selection-end-line="735" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JDKSCode/src/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="297" column="40" selection-start-line="297" selection-start-column="36" selection-end-line="297" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Software/EncodingSoftware/develop/jdk1.8.0_191/src.zip!/java/lang/ThreadLocal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="412" column="22" selection-start-line="412" selection-start-column="22" selection-end-line="412" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Software/EncodingSoftware/develop/jdk1.8.0_191/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="99" column="22" selection-start-line="99" selection-start-column="22" selection-end-line="99" selection-end-column="22" />
+          <folding>
+            <element signature="e#5748#5749#0" expanded="true" />
+            <element signature="e#5784#5785#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JDKSCode/src/java/lang/UnknownError.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="35" column="6" selection-start-line="35" selection-start-column="6" selection-end-line="35" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JDKSCode/src/java/lang/Byte.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9828">
+          <caret line="521" column="22" selection-start-line="521" selection-start-column="22" selection-end-line="521" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JDKSCode/src/java/lang/Double.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1974">
+          <caret line="119" column="24" selection-start-line="119" selection-start-column="24" selection-end-line="119" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JDKSCode/src/java/lang/Float.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16065">
+          <caret line="826" column="39" selection-start-line="826" selection-start-column="39" selection-end-line="826" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JDKSCode/src/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40551">
+          <caret line="2012" column="6" selection-start-line="2012" selection-start-column="6" selection-end-line="2012" selection-end-column="6" />
+          <folding>
+            <element signature="e#36008#36009#0" expanded="true" />
+            <element signature="e#36065#36066#0" expanded="true" />
+            <element signature="e#39129#39130#0" expanded="true" />
+            <element signature="e#39187#39188#0" expanded="true" />
+            <element signature="e#39756#39757#0" expanded="true" />
+            <element signature="e#39799#39800#0" expanded="true" />
+            <element signature="e#41120#41121#0" expanded="true" />
+            <element signature="e#41165#41166#0" expanded="true" />
+            <element signature="e#45509#45510#0" expanded="true" />
+            <element signature="e#45540#45541#0" expanded="true" />
+            <element signature="e#46538#46539#0" expanded="true" />
+            <element signature="e#46565#46566#0" expanded="true" />
+            <element signature="e#46822#46823#0" expanded="true" />
+            <element signature="e#46850#46851#0" expanded="true" />
+            <element signature="e#47708#47709#0" expanded="true" />
+            <element signature="e#47777#47778#0" expanded="true" />
+            <element signature="e#49110#49111#0" expanded="true" />
+            <element signature="e#49183#49184#0" expanded="true" />
+            <element signature="e#54046#54047#0" expanded="true" />
+            <element signature="e#54108#54109#0" expanded="true" />
+            <element signature="e#55310#55311#0" expanded="true" />
+            <element signature="e#55339#55340#0" expanded="true" />
+            <element signature="e#69165#69166#0" expanded="true" />
+            <element signature="e#69191#69192#0" expanded="true" />
+            <element signature="e#80336#80337#0" expanded="true" />
+            <element signature="e#80408#80409#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JDKSCode/src/java/lang/ThreadLocal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5901">
+          <caret line="323" column="17" selection-start-line="323" selection-start-column="17" selection-end-line="323" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JDKSCode/src/java/lang/Enum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4515">
+          <caret line="252" column="24" selection-start-line="252" selection-start-column="24" selection-end-line="252" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JDKSCode/src/java/lang/Throwable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15603">
+          <caret line="793" column="20" selection-start-line="793" selection-start-column="20" selection-end-line="793" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JDKSCode/src/java/lang/Error.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="34" column="15" selection-start-line="34" selection-start-column="15" selection-end-line="34" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javalang/OBJECT.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javalang/ThreadId.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="27" column="12" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JDKSCode/src/java/lang/Exception.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="67" column="7" selection-start-line="67" selection-start-column="7" selection-end-line="67" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>JdkSourceCode:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.31609195" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.31609195" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>JDKSCode</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.31609195" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
